@@ -1,3 +1,3 @@
-CREATE DATABASE alchemy_b;
+CREATE DATABASE base_pablo;
 
-USE alchemy_b;
+USE base_pablo;
